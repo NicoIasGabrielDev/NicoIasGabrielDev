@@ -6,7 +6,9 @@
   
   <div align="Justify">
   
-  Well, my full name is Nicolas Gabriel Lima Cardoso, I'm still entering the vast universe of programming, that's why I'm a Junior Developer, graduated in [Senai de informática](https://informatica.sp.senai.br/) as a Systems Developer.
+
+
+  Well, my name is Nicolas Lima. I'm a Frontend Developer with experience in JavaScript, React, and Angular, constantly improving my skills in software development. I had the opportunity to work at Brighten Consulting, gaining valuable experience in the field as being part of amazing and big projects. I graduated from [Senai de Informática](https://informatica.sp.senai.br/) as a Systems Developer and I'm always looking for new challenges to grow. 
   <br/><br/>
   Thus, in my course I found myself in some areas, such as Database, JavaScript and its React, React Native frameworks and .NET systems, but I will always be able to learn new programming languages, so that I can realize the system from best possible way. I like both individual and team challenges, always trying to give my maximum performance according to the needs and challenges of the moment.
   </div><hr/>
