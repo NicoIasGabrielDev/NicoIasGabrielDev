@@ -49,12 +49,3 @@
 ### :man_astronaut: - Social Media
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Gabriel-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev/)](https://www.linkedin.com/in/nicolaslimadeveloper/)<br/> [![Instagram Badge](https://img.shields.io/badge/_Nicollitos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicollitos/)
-
-### :ticket: - Note and languages used
-
-<a href="https://github.com/NicolasGabrielDev/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NicolasGabrielDev&show_icons=true" />
-</a>
-<a href="https://github.com/NicolasGabrielDev/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGabrielDev" />
-</a>
