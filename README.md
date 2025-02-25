@@ -48,7 +48,7 @@
 
 ### :man_astronaut: - Social Media
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Gabriel-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev/)](https://www.linkedin.com/in/nicolasgabrieldev//)<br/> [![Instagram Badge](https://img.shields.io/badge/_Nicollitos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicollitos/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Gabriel-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev/)](https://www.linkedin.com/in/nicolaslimadeveloper/)<br/> [![Instagram Badge](https://img.shields.io/badge/_Nicollitos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicollitos/)
 
 ### :ticket: - Note and languages used
 
